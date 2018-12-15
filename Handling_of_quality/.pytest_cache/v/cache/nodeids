@@ -1,0 +1,7 @@
+[
+  "Test_Warehouse.py::test_recalculate_quality_can_differ_between_products",
+  "Test_Warehouse.py::test_recalculate_quality_more_than_and_equal_5",
+  "Test_Warehouse.py::test_recalculate_quality_less_than_5",
+  "Test_Warehouse.py::test_recalculate_quality_goes_negative",
+  "Test_Warehouse.py::test_recalculate_quality_floatingnumbers"
+]
